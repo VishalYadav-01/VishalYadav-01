@@ -16,7 +16,7 @@ I am continuously improving my skills in **data science, machine learning, and d
 
 ## 📫 Connect With Me
 Feel free to reach out for collaboration or discussions on data analytics and business intelligence!
-- **LinkedIn**: [Your Profile Link]
-- **GitHub**: [github.com/YourUsername]
+- **LinkedIn**: [(https://www.linkedin.com/in/vishal-yadav-349684336/)]
+- **GitHub**: [github.com/VishalYadav-01]
 
 Let's grow and innovate together! 🚀
